@@ -1,0 +1,8 @@
+Navrhněte databázový systém Pizzerie, který má vše potřebné pro restauraci.
+Každá správná pizzerie má své pronajmuté prostory, vlastní vybavení, zaměstnance a hlavně
+dobrou pizzu. Pizzerie může mít také vlastní salonek pro různé příležitosti jako jsou např.:
+narozeniny, oslavy. Účelem této databáze bude zaznamenávání jednotlivých objednávek, rezervací.
+Za rezervace zodpovídá určený zaměstnanec.Každá rezervace má údaje o vytvoření, jménu osoby, která ji vytvořila.
+Rezervovat si můžeme jednotlivé stoly či salónky, každý zaměstnanec se stará o svoji oblast stolů v restauraci.
+Objednat si můžeme z jídelního lístku, který má v sobě různé druhy pizzy, polévky dle denní nabídky a pití.
+Každá pizzerie ma kuchaře, který připravuje objednávky.
